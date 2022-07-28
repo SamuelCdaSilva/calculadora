@@ -1,10 +1,10 @@
-# calculadora
+# Projeto | Calculadora :balance_scale:
 Projeto Calculadora 🧮
 
-Projeto realizado com o objetivo de consolidar os conhecimentos na linguagem JavaScript.
+- Projeto realizado com o objetivo de consolidar os conhecimentos na linguagem JavaScript.
 
-Site hospedado: https://samuelcdasilva.github.io/calculadora/calculadora.html
-
-Tecnologias utilizadas: HTML5, CSS3 e JavaScript puro.
-
-Situação do projeto: Finalizado
+- Tecnologias utilizadas: __HTML5__, __CSS3__ e __JavaScript__ puro.
+***
+### Situação do projeto: Finalizado :heavy_check_mark:
+***
+Página hospedada em: https://samuelcdasilva.github.io/calculadora/calculadora.html
