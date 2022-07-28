@@ -1,7 +1,7 @@
 # Projeto | Calculadora :balance_scale:
 Projeto Calculadora 🧮
 
-- Projeto realizado com o objetivo de consolidar os conhecimentos na linguagem JavaScript.
+- Projeto realizado com o objetivo de consolidar os conhecimentos na linguagem __JavaScript__.
 
 - Tecnologias utilizadas: __HTML5__, __CSS3__ e __JavaScript__ puro.
 ***
